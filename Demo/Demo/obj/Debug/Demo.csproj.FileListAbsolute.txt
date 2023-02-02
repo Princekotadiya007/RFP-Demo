@@ -1,0 +1,8 @@
+D:\RFP-demo\RFP-Demo\Demo\Demo\bin\Debug\Demo.exe.config
+D:\RFP-demo\RFP-Demo\Demo\Demo\bin\Debug\Demo.exe
+D:\RFP-demo\RFP-Demo\Demo\Demo\bin\Debug\Demo.pdb
+D:\RFP-demo\RFP-Demo\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+D:\RFP-demo\RFP-Demo\Demo\Demo\obj\Debug\Demo.csproj.SuggestedBindingRedirects.cache
+D:\RFP-demo\RFP-Demo\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\RFP-demo\RFP-Demo\Demo\Demo\obj\Debug\Demo.exe
+D:\RFP-demo\RFP-Demo\Demo\Demo\obj\Debug\Demo.pdb
